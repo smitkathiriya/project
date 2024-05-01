@@ -1,0 +1,26 @@
+.Notifications {
+    margin-left: 350px;
+    background-color: #00AA30;
+    position: absolute;
+    margin-top: 26px;
+    width: 1500px;
+    border-radius: 13px;
+    color: #fff;
+    display: flex;
+}
+
+.Notifications h1 {
+    margin-left: 20px;
+    font-weight: 300;
+
+}
+
+.Notifications p {
+    position: absolute;
+    color: black;
+    font-size: 38px;
+    margin-top: 20px;
+    margin-left: 1310px;
+    font-weight: 700;
+}
+

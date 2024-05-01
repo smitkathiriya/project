@@ -1,0 +1,68 @@
+.content {
+
+    margin-top: 150px;
+    height: 250px;
+    margin-left: 150px;
+}
+
+.card_1 {
+    margin-left: 325px;
+}
+
+.sub_content {
+    margin-left: 280px;
+    border: 2px solid #cdcaca;
+    margin-top: 100px;
+    width: 1629px;
+    overflow: hidden;
+    height: 349px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    display: flex;
+    box-sizing: 2px 8-px 25% #cdcaca;
+    background: #FFF;
+
+}
+
+
+.sub_content h1 {
+    margin-left: 80px;
+}
+
+.sub_card1 {
+    border: 2px solid #FFFFFF;
+    height: 193.48px;
+    width: 318.79px;
+    margin-left: 80px;
+    border-radius: 20px;
+    box-shadow: 2px 7px 10px #cdcaca;
+    margin: auto;
+}
+
+.card_hedar {
+    display: flex;
+}
+
+.card_hedar img {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.card_hedar p {
+    margin-left: 10px;
+    font-size: 16px;
+    color: #577883;
+    font-weight: 700;
+}
+
+.card_hr {
+    width: 275px;
+}
+
+.card_footer p {
+    color: #5D5D5D;
+}
+
+.card_footer {
+    margin-left: 20px;
+}
